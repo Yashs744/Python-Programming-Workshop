@@ -1,6 +1,9 @@
 # Python-Programming-Workshop
 Python Programming Workshop held at Aryabhatta College on 1st, 2nd and 5th Feb, 2018.
 
+### To Install Python
+Visit [Python Download and Installation Instructions](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html)
+
 ### To Run Python Script
   1. Open up the terminal 
   2. Change Directory to the Folder where script exists
