@@ -4,16 +4,13 @@
 import random
 n = random.randint(1, 99)
 
-guess = int(input("Enter a number from 1 to 99: "))
-
-while n != guess:
+while True:
     print()
+    guess = int(input("Enter a number from 1 to 99: "))
     if guess < n:
         print ("Guess is Low")
-        guess = int(input("Enter a number from 1 to 99: "))
     elif guess > n:
         print ("Guess is High")
-        guess = int(input("Enter a number from 1 to 99: "))
     else:
         break
 
